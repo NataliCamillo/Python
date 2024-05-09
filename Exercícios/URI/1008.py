@@ -1,5 +1,0 @@
-numFuncionario = int (input())
-numHoras = int(input())
-valHora = float (input())
-salario = (numHoras * valHora)
-print (f"NUMBER = {numFuncionario}\nSALARY = U$ {salario:.2f}")
